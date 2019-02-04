@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1007048923520",
+    "firebase_url": "https://test-a2a5c.firebaseio.com",
+    "project_id": "test-a2a5c",
+    "storage_bucket": "test-a2a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007048923520:android:d3c8269c8e5c1240",
+        "android_client_info": {
+          "package_name": "info.camposha.firebaserecyclerimagesuploaddownload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007048923520-mqof6nctcn4vpq4vuac11r6vqm0n3gr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.firebaserecyclerimagesuploaddownload",
+            "certificate_hash": "0f87433a7f9b3541b1ae0b04ce8a5d0f7feab2e2"
+          }
+        },
+        {
+          "client_id": "1007048923520-52j6od1igt06uscgumofqe27r087f9vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_OdkwHya0hRttwU5HkPtvu6A-muGJMj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007048923520-52j6od1igt06uscgumofqe27r087f9vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
